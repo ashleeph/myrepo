@@ -1,2 +1,7 @@
-# myrepo
-Repository for testing my Git/GitHub setup
+My first repository
+
+Ashlee Patacsil-Hardin
+
+This repository includes:
+
+-   setup.R: set up script for libraries
